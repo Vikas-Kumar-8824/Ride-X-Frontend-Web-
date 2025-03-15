@@ -394,7 +394,7 @@ nav .navigation2 .logo-ait img {
 .nav-links {
   display: flex;
   list-style: none;
-  background-color: #b1b1b1;
+    background-color: #333;
   border-radius: 30px;
   padding-left: 10px;
   padding-right: 10px;
