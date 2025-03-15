@@ -691,9 +691,11 @@ nav .navigation2 .logo-ait img {
 }
 
 #Suggestions .suggestion .sugg h3 {
-  font-size: 3rem;
+  font-size: 2.4rem;
   margin-left: 50px;
   padding-top: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
 
 }
 
@@ -873,6 +875,7 @@ height: 250px;
   margin-right: 10px;
   color: black;
   font-family: cursive;
+  margin-top: 20px;
 
 
 
@@ -975,7 +978,7 @@ height: fit-content;
   height: 170px;
   width: 220px;
   margin-left: 20px;
-  /* margin-top: 20px; */
+   margin-top: 15px; 
   color: black;
   font-family: cursive;
 
@@ -1072,7 +1075,7 @@ transition: 0.3s ease-in;
 
 #Journey .journey .j2 .p1{
 
-  font-size: 48px;
+  font-size: 2.4rem;
   margin-top: 150px;
   font-style: italic;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -1128,7 +1131,7 @@ margin-top: 20px;
 
 .faq-container h2{
 
-  font-size: 40px;
+  font-size: 2.4rem;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .faq-item {
@@ -1138,7 +1141,7 @@ margin-top: 20px;
 }
 .faq-item h3 {
   margin: 0;
-  font-size: 21px;
+  font-size: 18px;
   display: flex;
   justify-content: space-between;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -1177,7 +1180,7 @@ margin-top: 20px;
   margin-right: 40px;
 }
 .text-section h1 {
-  font-size: 40px;
+  font-size: 2.4rem;
   color: #000;
   margin-bottom: 20px;
   margin-top: 30px;
@@ -1185,7 +1188,7 @@ margin-top: 20px;
 
 .text-section p{
   margin-top: 30px;
-  font-size: 24px;
+  font-size: 21px;
 }
 .trusted-label {
   display: inline-block;
@@ -1399,7 +1402,7 @@ transition: 0.3s ease-in;
 }
 .text-section1 h3 {
   margin: 0;
-  font-size: 20px;
+  font-size: 2.4rem;
   color: #333;
 }
 .text-section1 h2 {
@@ -1452,7 +1455,7 @@ transition: 0.3s ease-in;
   margin-bottom: 50px;
 }
 .ride-header {
-  font-size: 48px;
+  font-size: 2.4rem;
   font-weight: bold;
   margin-bottom: 20px;
 
