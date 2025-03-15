@@ -917,9 +917,12 @@ height: 250px;
 
 
 #ridetype .ridet .ride h3 {
-  font-size: 3rem;
-  margin-left: 50px;
+  font-size: 2.4rem;
+  margin-left: 40px;
   padding-top: 50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+ margin-right: 15px;
 
 }
 
@@ -1007,7 +1010,7 @@ transition: 0.3s ease-in;
 #ridetype .ridet .ride ul a .s1 .s11 {
 
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.4rem;
 }
 
 #ridetype .ridet .ride ul a .s1 .s21{
@@ -1061,9 +1064,9 @@ transition: 0.3s ease-in;
 
 #Journey .journey .j2{
 
-  width: 35%;
-  margin-left: 100px;
-  margin-right: 100px;
+  width: 50%;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 
@@ -1072,7 +1075,8 @@ transition: 0.3s ease-in;
   font-size: 48px;
   margin-top: 150px;
   font-style: italic;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: bold;
 }
 
 
@@ -1080,33 +1084,38 @@ transition: 0.3s ease-in;
 
   font-size: 30px;
 
-  margin-top: 30px;
+  margin-top: 40px;
 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  font-weight: bold;
 }
 
 
 #Journey .journey .j2 .p3{
 
   font-size: 20px;
-
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-top: 20px;
+  font-family:cursive;
 }
 
 
 #Journey .journey .j2 .p4{
 
   font-size: 30px;
-  margin-top: 30px;
+  margin-top: 40px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  font-weight: bold;
 }
 
 
 #Journey .journey .j2 .p5{
 
   font-size: 20px;
+  margin-top: 20px;
 
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:cursive;
 }
 
 
